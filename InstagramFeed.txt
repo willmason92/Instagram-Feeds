@@ -7,7 +7,7 @@
      <?php 
 
     // use this instagram access token generator http://instagram.pixelunion.net/
-    $access_token="1916506211.1677ed0.c67c001342f84432b71992439532e97a";
+    $access_token="";
     $photo_count=3;
          
     $json_link="https://api.instagram.com/v1/users/self/media/recent/?";
